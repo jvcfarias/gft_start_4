@@ -1,0 +1,15 @@
+C:\Users\JoãoVictor\Teste_GFT\bin\Debug\net6.0\Teste_GFT.exe
+C:\Users\JoãoVictor\Teste_GFT\bin\Debug\net6.0\Teste_GFT.deps.json
+C:\Users\JoãoVictor\Teste_GFT\bin\Debug\net6.0\Teste_GFT.runtimeconfig.json
+C:\Users\JoãoVictor\Teste_GFT\bin\Debug\net6.0\Teste_GFT.dll
+C:\Users\JoãoVictor\Teste_GFT\bin\Debug\net6.0\ref\Teste_GFT.dll
+C:\Users\JoãoVictor\Teste_GFT\bin\Debug\net6.0\Teste_GFT.pdb
+C:\Users\JoãoVictor\Teste_GFT\obj\Debug\net6.0\Teste_GFT.csproj.AssemblyReference.cache
+C:\Users\JoãoVictor\Teste_GFT\obj\Debug\net6.0\Teste_GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoVictor\Teste_GFT\obj\Debug\net6.0\Teste_GFT.AssemblyInfoInputs.cache
+C:\Users\JoãoVictor\Teste_GFT\obj\Debug\net6.0\Teste_GFT.AssemblyInfo.cs
+C:\Users\JoãoVictor\Teste_GFT\obj\Debug\net6.0\Teste_GFT.csproj.CoreCompileInputs.cache
+C:\Users\JoãoVictor\Teste_GFT\obj\Debug\net6.0\Teste_GFT.dll
+C:\Users\JoãoVictor\Teste_GFT\obj\Debug\net6.0\ref\Teste_GFT.dll
+C:\Users\JoãoVictor\Teste_GFT\obj\Debug\net6.0\Teste_GFT.pdb
+C:\Users\JoãoVictor\Teste_GFT\obj\Debug\net6.0\Teste_GFT.genruntimeconfig.cache
